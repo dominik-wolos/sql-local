@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/36745d64-ca1d-40d2-a894-d6e5669483d0/console.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab2/212.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab2/269.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab2/validate_graduation.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab3/230.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab3/232.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab3/235.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab3/237.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+    <file url="file://$PROJECT_DIR$/Lab4/241.sql" value="36745d64-ca1d-40d2-a894-d6e5669483d0" />
+  </component>
+</project>
